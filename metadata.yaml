@@ -1,0 +1,26 @@
+_repo: The-Boy-Scouts-in-the-Blue-Ridge--Or-Marooned-Among-the-Moonshiners_32240
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32240-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Carter, Herbert, active 1909-1917
+    gutenberg_agent_id: '2624'
+    url: http://www.gutenberg.org/2009/agents/2624
+    wikipedia: http://www.gutenberg.org/ebooks/author/1599
+description: ''
+gutenberg_issued: '2010-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32240'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boy Scouts -- Juvenile fiction'
+- !lcsh 'Blue Ridge Mountains -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Boy Scouts in the Blue Ridge; Or, Marooned Among the Moonshiners
+url: http://www.gutenberg.org/ebooks/32240
